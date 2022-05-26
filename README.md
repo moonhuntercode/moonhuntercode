@@ -1,7 +1,7 @@
 #I am 🥰 , Victor Code
   
   <hr/>
-    #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development on Twitch 😘💜🖤💜
+    #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development,and sometimes sharing my knowledge on Twitch 😘💜🖤💜
     
 <a href="https://www.instagram.com/victorcode_/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30" alt="instagram-victor-code"/></a> <a href="https://www.twitch.tv/victorcode_"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="80" alt="twitch-victor-code"/></a> 
     
