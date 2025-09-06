@@ -1,0 +1,20 @@
+{
+  "name": "moonhuntercode",
+  "version": "0.0.1",
+  "description": "<hr/>\r     #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development,and sometimes sharing my knowledge on Twitch 😘💜🖤💜",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonhuntercode/moonhuntercode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonhuntercode/moonhuntercode/issues"
+  },
+  "homepage": "https://github.com/moonhuntercode/moonhuntercode#readme"
+}
