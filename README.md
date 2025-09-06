@@ -25,6 +25,7 @@
 ![lua](https://img.shields.io/badge/lua-purple?style=for-the-badge&logo=lua&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![sqlite3](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![php](https://img.shields.io/badge/php-003B57?style=for-the-badge&logo=php&logoColor=white)
 
 ## MY favorite TOOLS💪
 
