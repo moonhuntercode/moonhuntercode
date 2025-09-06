@@ -39,7 +39,7 @@
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <hr/>
-    #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development,and sometimes sharing my knowledge on Twitch 😘💜🖤💜
+    #I AM A UI/UX, WEB DEVELOPER, SOMETIMES FULLSTACK,WEB BUILDER,LATER INSTRUCTOR OF WEB DEVELOPMENT,AND SOMETIMES SHARING MY KNOWLEDGE ON TWITCH 😘💜🖤💜
 
 <a href="https://www.instagram.com/victorcode_/">
 <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" width="30" alt="instagram-victor-code"/></a>
