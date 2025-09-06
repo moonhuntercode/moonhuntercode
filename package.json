@@ -1,7 +1,7 @@
 {
   "name": "moonhuntercode",
-  "version": "0.0.2",
-  "description": "<hr/>\r     #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development,and sometimes sharing my knowledge on Twitch 😘d💜🖤💜",
+  "version": "0.0.3",
+  "description": "<hr/>\r     #I am a Front End developer,sometimes FullStack MERN,later Instructor of Web development,and sometimes sharing my knowledge on Twitch 😘💜🖤💜",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
