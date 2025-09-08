@@ -8,7 +8,8 @@
 ![solidjs](https://img.shields.io/badge/solidjs-purple?style=for-the-badge&logo=solidjs&logoColor=white)
 
 ## SKILLS
-
+![vue3](https://img.shields.io/badge/vue3-47A248?style=for-the-badge&logo=vue&logoColor=white)
+![react](https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
