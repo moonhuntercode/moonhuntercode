@@ -1,10 +1,11 @@
 
 # I am 🥰 , Victor Code
 
-## LANGUAGES THAT I LEARN currently 🧑‍🎓👨‍🎓
+## LANGUAGES & LIBRARYS THAT I LEARN CURRENTLY 🧑‍🎓👨‍🎓
 
 ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![solidjs](https://img.shields.io/badge/solidjs-purple?style=for-the-badge&logo=solidjs&logoColor=white)
 
 ## SKILLS
 
@@ -25,13 +26,14 @@
 ![lua](https://img.shields.io/badge/lua-purple?style=for-the-badge&logo=lua&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![sqlite3](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![php](https://img.shields.io/badge/php-003B57?style=for-the-badge&logo=php&logoColor=white)
+![python](https://img.shields.io/badge/python-003B7?style=for-the-badge&logo=python&logoColor=white)
 
 ## MY favorite TOOLS💪
 
 ![VSCODE](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![github](https://flat.badgen.net/badge/icon/github?icon=github&label&color=purple)
-
+![webstorm](https://img.shields.io/badge/webStorm-E95420?style=for-the-badge&logo=jetbrain&logoColor=white)
+![webstorm](https://img.shields.io/badge/jetbrains_products-5420?style=for-the-badge&logo=jetbrain&logoColor=white)
 ## MY FAVORITE S.O.👀
 
 ![windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
