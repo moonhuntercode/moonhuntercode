@@ -5,7 +5,7 @@
 
 ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![solidjs](https://img.shields.io/badge/solidjs-purple?style=for-the-badge&logo=solidjs&logoColor=white)
+<!-- ![solidjs](https://img.shields.io/badge/solidjs-purple?style=for-the-badge&logo=solidjs&logoColor=white) -->
 
 ## SKILLS
 ![vue3](https://img.shields.io/badge/vue3-47A248?style=for-the-badge&logo=vue&logoColor=white)
