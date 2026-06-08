@@ -5,6 +5,7 @@
 
 ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ts](https://flat.badgen.net/badge/icon/typescript?icon=typescript&label&color=purple)
 <!-- ![solidjs](https://img.shields.io/badge/solidjs-purple?style=for-the-badge&logo=solidjs&logoColor=white) -->
 
 ## SKILLS
@@ -19,7 +20,7 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  ![git](https://flat.badgen.net/badge/icon/git?icon=git&label&color=purple)
- ![ts](https://flat.badgen.net/badge/icon/typescript?icon=typescript&label&color=purple)
+ 
 <!-- ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![cpp](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
